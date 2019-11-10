@@ -1,7 +1,7 @@
 
- ## 👮 Facial Recognition 
+ ## 👮 Deep Image Recognition Framework (DIRF)
 
-Develop an app to capture a photo and search for the same on official websites / social media websites/internet using an optimized facial recognition algorithm.
+Core idea is to develop a software to capture and identify an image and search for the same on official websites / social media websites/internet using an optimized image recognition algorithm.
 
 
 ### Image Search engines
