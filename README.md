@@ -6,15 +6,15 @@ Core idea is to develop a software to capture and identify an image and search f
 
 ### Image Search engines
 
-Social Catfish – https://socialcatfish.com/reverse-image-search/
-Tiny Eye – https://www.tineye.com/
-Image Raider – https://www.imageraider.com/
-Small SEO Tools – http://smallseotools.com/reverse-image-search/ Google Image Search: https://www.google.com/imghp
-Bing Image Search: https://www.bing.com/images/ (Best if location and language is set to US English)
-Yahoo Image Search: https://images.search.yahoo.com/
-Flickr Advanced Search: https://www.flickr.com/search/advanced/ (Best if logged in)
-DuckDuckGo Image Search: https://duckduckgo.com/test?ia=images
-Dogpile Image Search: https://www.dogpile.com/?qc=images
+- Social Catfish – https://socialcatfish.com/reverse-image-search/
+- Tiny Eye – https://www.tineye.com/
+- Image Raider – https://www.imageraider.com/
+- Small SEO Tools – http://smallseotools.com/reverse-image-search/ Google Image Search: https://www.google.com/imghp
+- Bing Image Search: https://www.bing.com/images/ (Best if location and language is set to US English)
+- Yahoo Image Search: https://images.search.yahoo.com/
+- Flickr Advanced Search: https://www.flickr.com/search/advanced/ (Best if logged in)
+- DuckDuckGo Image Search: https://duckduckgo.com/test?ia=images
+- Dogpile Image Search: https://www.dogpile.com/?qc=images
 
 #### Useful for:
 
