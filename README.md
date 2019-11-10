@@ -1,5 +1,5 @@
 
- ## 👮 Deep Image Recognition Framework (DIRF)
+ ## 🤖👾 ReFleX - Deep Image Recognition Bot (D.I.R.B)
 
 Core idea is to develop a software to capture and identify an image and search for the same on official websites / social media websites/internet using an optimized image recognition algorithm.
 
@@ -9,7 +9,8 @@ Core idea is to develop a software to capture and identify an image and search f
 - Social Catfish – https://socialcatfish.com/reverse-image-search/
 - Tiny Eye – https://www.tineye.com/
 - Image Raider – https://www.imageraider.com/
-- Small SEO Tools – http://smallseotools.com/reverse-image-search/ Google Image Search: https://www.google.com/imghp
+- Small SEO Tools – http://smallseotools.com/reverse-image-search/
+- Google Image Search: https://www.google.com/imghp
 - Bing Image Search: https://www.bing.com/images/ (Best if location and language is set to US English)
 - Yahoo Image Search: https://images.search.yahoo.com/
 - Flickr Advanced Search: https://www.flickr.com/search/advanced/ (Best if logged in)
