@@ -24,3 +24,5 @@ Core idea is to develop a software to capture and identify an image and search f
 3. Identify if a rental is being listed on other sites illicitly
 4. Find products you want that you see on pinterest or other sites
 5. Track down artists whom you wish to find more of their art
+
+And more
