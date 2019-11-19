@@ -1,8 +1,6 @@
-
- ## 🤖👾 ReFleX - Deep Image Recognition Bot (D.I.R.B)
+## 🤖👾 ReFleX - Deep Image Recognition Bot (D.I.R.B)
 
 Core idea is to develop a software to capture and identify an image and search for the same on official websites / social media websites/internet using an optimized image recognition algorithm.
-
 
 ### Image Search engines
 
@@ -17,6 +15,8 @@ Core idea is to develop a software to capture and identify an image and search f
 - DuckDuckGo Image Search: https://duckduckgo.com/test?ia=images
 - Dogpile Image Search: https://www.dogpile.com/?qc=images
 
+------
+
 #### Useful for:
 
 1. Verifying the identity of a person you meet online
@@ -24,5 +24,9 @@ Core idea is to develop a software to capture and identify an image and search f
 3. Identify if a rental is being listed on other sites illicitly
 4. Find products you want that you see on pinterest or other sites
 5. Track down artists whom you wish to find more of their art
+6. And more...
 
-And more
+[LICENSE](https://github.com/PSNAppz/ReFleX/blob/master/LICENSE)
+
+
+
