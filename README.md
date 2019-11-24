@@ -1,4 +1,4 @@
-## 🤖👾 ReFleX - Deep Image Recognition Bot (D.I.R.B)
+## 🤖👾 ReFleX - Deep Image Search/Recognition 
 
 Core idea is to develop a software to capture and identify an image and search for the same on official websites / social media websites/internet using an optimized image recognition algorithm.
 
