@@ -26,6 +26,12 @@ Core idea is to develop a software to capture and identify an image and search f
 5. Track down artists whom you wish to find more of their art
 6. And more...
 
+#### To-Do
+
+- [ ] Core Deep-Learning model (In development)
+- [ ] Search engine integrations
+- [ ] Result visualizer
+
 [LICENSE](https://github.com/PSNAppz/ReFleX/blob/master/LICENSE)
 
 
