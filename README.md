@@ -51,7 +51,7 @@ reflex/
     templates/
 </pre>
 ##### Structure details 
-
+<pre>
 run.py	This is the file that is invoked to start up a development server. It gets a copy of the app from your package and runs it. This won’t be used in production, but it will see a lot of mileage in development.
 requirements.txt	This file lists all of the Python packages that your app depends on. You may have separate files for production and development dependencies.
 config.py	This file contains most of the configuration variables that your app needs.
@@ -62,7 +62,7 @@ config.py	This file contains most of the configuration variables that your app n
 /yourapp/models.py	This is where you define the models of your application. This may be split into several modules in the same way as views.py.
 /yourapp/static/	This directory contains the public CSS, JavaScript, images and other files that you want to make public via your app. It is accessible from yourapp.com/static/ by default.
 /yourapp/templates/	This is where you’ll put the Jinja2 templates for your app.
-
+</pre>
 
 
 [LICENSE](https://github.com/PSNAppz/ReFleX/blob/master/LICENSE)
