@@ -65,7 +65,7 @@ config.py	This file contains most of the configuration variables that your app n
 </pre>
 
 
-[LICENSE](https://github.com/PSNAppz/ReFleX/blob/master/LICENSE)
+Please read the [LICENSE](https://github.com/PSNAppz/ReFleX/blob/master/LICENSE) here.
 
 
 
