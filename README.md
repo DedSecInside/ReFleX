@@ -36,6 +36,7 @@ Core idea is to develop a software to capture and identify an image and search f
 
 Please follow the below project structure for this project when contributing. For more details refer: https://exploreflask.com/en/latest/organizing.html
 
+<pre>
 config.py
 requirements.txt
 run.py
@@ -48,7 +49,7 @@ reflex/
     forms.py
     static/
     templates/
-
+</pre>
 ##### Structure details 
 
 run.py	This is the file that is invoked to start up a development server. It gets a copy of the app from your package and runs it. This won’t be used in production, but it will see a lot of mileage in development.
