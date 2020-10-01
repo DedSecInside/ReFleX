@@ -1,6 +1,6 @@
 ## 🤖👾 ReFleX - Deep Image Search/Recognition 
 
-Core idea is to develop a software to capture and identify an image and search for the same on official websites / social media websites/internet using an optimized image recognition algorithm.
+Core idea is to develop a software to capture and identify an image and search for the same on websites, social medias and search engines using an optimized image recognition algorithm.
 
 ### Image Search engines
 
