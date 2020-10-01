@@ -14,6 +14,7 @@ Core idea is to develop a software to capture and identify an image and search f
 - Flickr Advanced Search: https://www.flickr.com/search/advanced/ (Best if logged in)
 - DuckDuckGo Image Search: https://duckduckgo.com/test?ia=images
 - Dogpile Image Search: https://www.dogpile.com/?qc=images
+- Pinterest Visual Search Tool: [https://www.pinterest.com/]
 
 ------
 
